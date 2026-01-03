@@ -1,0 +1,17 @@
+# Read design
+read_verilog counter.v
+
+# Elaborate design
+hierarchy -check -top counter
+
+# High-level synthesis
+proc; opt; fsm; opt; memory; opt
+
+# Technology mapping (generic gates)
+techmap; opt
+
+# Show statistics
+stat
+
+# Write gate-level netlist
+write_verilog counter_synth.v

@@ -1,3 +1,3 @@
-This is a Tier-2 Project
+This is a Tier-2 goal Project
 
 --No todos yet :)--

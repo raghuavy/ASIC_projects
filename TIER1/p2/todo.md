@@ -1,3 +1,5 @@
+Register File (e.g., 32×32)
+
 What to build
 
 2 read ports, 1 write port

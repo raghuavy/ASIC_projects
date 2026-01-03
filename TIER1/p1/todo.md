@@ -1,4 +1,4 @@
-1) Parameterized Counter + Clock Gating
+Parameterized Counter + Clock Gating
 
 What to build
 

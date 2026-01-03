@@ -84,7 +84,3 @@ NOTES
 - Designs may be expanded and iterated over time
 
 ------------------------------------------------------------
-
-LICENSE
-
-License to be added.

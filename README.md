@@ -1,3 +1,5 @@
+# The main repository branch is private
+
 ASIC PROJECTS
 
 This repository contains a collection of small ASIC design projects and experiments exploring the digital RTL-to-GDSII flow using open-source EDA tools. The goal is to build a solid, industry-relevant understanding of ASIC design concepts without relying on proprietary software.
